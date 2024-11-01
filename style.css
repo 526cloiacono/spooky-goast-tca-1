@@ -21,7 +21,7 @@ body {
 *:before {
     box-sizing: inherit;
 }
-
+/* Start of body */
 #spooky {
     margin: 10% auto;
     width: 80%;
@@ -59,7 +59,7 @@ body {
 #spooky #body:after {
     right: -18px;
 }
-
+/* start of eyes */
 #spooky #body #eyes {
     display: flex;
     justify-content: space-between;
@@ -78,7 +78,7 @@ body {
     background: white;
     border-radius: 50%;
 }
-
+/* start of mouth */
 #spooky #body #mouth {
     background: white;
     margin: 25px auto 0;
@@ -114,7 +114,7 @@ body {
     background: black;
     border-radius: 50%;
 }
-
+/* end of body start of shawdow */
 #shadow {
     margin: -90px auto 0;
     background: white;
